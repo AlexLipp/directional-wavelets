@@ -1,6 +1,6 @@
 # Wavelet analysis of directional data
 
-Example of how to perform wavelet analysis on a sequence of directional data, using the example of the flow direction of the Colorado river, USA. Supplementary code relating to Lipp & Roberts (2019). 
+Example of how to perform wavelet analysis on a sequence of directional data, using the example of the flow direction of the Colorado river, USA. Supplementary code relating to the paper *"Flow directions of drainage networks set by the mantle"* (sub judice) 
 
 ## Requisites
 
