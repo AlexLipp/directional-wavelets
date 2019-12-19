@@ -6,7 +6,7 @@ Example of how to perform wavelet analysis on a sequence of directional data, us
 
 DEM preprocessing was written for [Generic Mapping Tools](http://gmt.soest.hawaii.edu/) v6 but is compatible with some older versions. 
 
-The python scripts require `python` version **3.6.9** and a modified version of the `mlpy` package. 
+The python scripts require `python` version **3.6.9** and a modified version of the `mlpy` package. Generic scientific computing pacakges are also used (e.g. `numpy`, `pandas`, `matplotlib` etc...)
 
 ## Contents
 
