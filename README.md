@@ -20,7 +20,7 @@ This repository contains 5 files.
 
 ### Wavelet Analysis
 
-`azimuths_wavelets_colorado.py` performs wavelet transformation on the Colorado river flow-direction as a function of distance downstream by transforming azimuth into the complex plane. The script transforms the bearing into a function of distance and wavenumber, and subsequently displays the results. The script then performs the inverse wavelet transformation to reconstruct the original signal, as well as reconstructing filtered versions of the signal by removing variation contained on small wavelengths. Finally, the script shows that performing wavelet analysis on azimuths by splitting it into 'eastings' and 'westings' produces identical results to the method in the complex plane.   
+`azimuths_wavelets_colorado.py` performs wavelet transformation on the Colorado river flow-direction as a function of distance downstream by transforming azimuth into the complex plane. The script transforms the bearing into a function of distance and wavenumber, and subsequently displays the results. The script then performs the inverse wavelet transformation to reconstruct the original signal, as well as reconstructing filtered versions of the signal by removing variation contained on small wavelengths. Finally, the script shows that performing wavelet analysis on azimuths by splitting it into 'eastings' and 'northings' produces identical results to the method in the complex plane.   
 
 `colorado.dat` is a text file containing the longitude, latitude, distance downstream and flow direction of the Colorado river. 
 
