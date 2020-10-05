@@ -1,4 +1,4 @@
-This repository is archived at the point of submission on Zenodo [![DOI](https://zenodo.org/badge/228919951.svg)](https://zenodo.org/badge/latestdoi/228919951)
+This repository is archived at the point of submission on Zenodo: [![DOI](https://zenodo.org/badge/228919951.svg)](https://zenodo.org/badge/latestdoi/228919951)
 
 
 # Wavelet analysis of directional data
