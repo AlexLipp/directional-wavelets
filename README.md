@@ -3,7 +3,7 @@ This repository is archived at the point of submission on Zenodo: [![DOI](https:
 
 # Wavelet analysis of directional data
 
-Example of how to perform wavelet analysis on a sequence of directional data, using the example of the flow direction of the Colorado river, USA. Supplementary code relating to the paper *"Flow directions of drainage networks set by the mantle"* (sub judice) 
+Example of how to perform wavelet analysis on a sequence of directional data, using the example of the flow direction of the Colorado river, USA. Supplementary code relating to the paper *"[Scale-Dependent Flow Directions of Rivers and the Importance of Subplate Support](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091107)"* 
 
 ## Requisites
 
